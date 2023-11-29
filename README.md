@@ -45,10 +45,12 @@ The main execution program for the sign language interpreter.
 4) Run the sample program: python app.py<br>
 
 ### Architecture Diagram/Flow:
-![image](https://github.com/Fawziya20/AI-ENHANCED-SIGN-LANGUAGE-INTERPRETER/assets/75235022/88cf6955-69af-43e7-88bd-4f2be447d6e4)
+![image](https://github.com/Fawziya20/AI-ENHANCED-SIGN-LANGUAGE-INTERPRETER/assets/75235022/8cd6f8d2-66c7-4bea-bda9-567714dd83f5)
 
-### Output
-![image](https://github.com/Fawziya20/AI-ENHANCED-SIGN-LANGUAGE-INTERPRETER/assets/75235022/8419837d-72e5-434b-ab89-e59978726e0b)
+
+### Output:
+![image](https://github.com/Fawziya20/AI-ENHANCED-SIGN-LANGUAGE-INTERPRETER/assets/75235022/107c9d21-b8f8-4850-a93f-7a21b74b269d)
+
 
 ### Result
 The Hand Sign Recognition System is an innovative application designed for real-time recognition of hand gestures through a webcam. Employing the MediaPipe library and a carefully crafted deep learning model, the system accurately identifies and interprets diverse hand signs, enhancing communication through gesture recognition.<br>
