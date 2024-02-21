@@ -7,6 +7,7 @@ This project implements a Hand Gesture Recognition system using the MediaPipe li
 The project repository includes the following components:<br>
 1) Sample Program (app.py):
 The main execution program for the sign language interpreter.
+
 2) Hand Sign Recognition Model (TFLite) and Related Files:
 
  hand_sign_model.tflite: TFLite model file for hand sign recognition.<br>
