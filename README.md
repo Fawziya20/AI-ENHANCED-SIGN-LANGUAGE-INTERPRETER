@@ -4,9 +4,10 @@
 This project implements a Hand Gesture Recognition system using the MediaPipe library in Python. The goal is to recognize hand signs and finger gestures, facilitating a sign language interpreter enhanced by artificial intelligence.
 
 ### Contents
-The project repository includes the following components:<br>
+The project repository includes the following components:
+
 1) Sample Program (app.py):<br>
-The main execution program for the sign language interpreter.
+The main execution program for the sign language interpreter.<br>
 
 2) Hand Sign Recognition Model (TFLite) and Related Files:<br>
 
