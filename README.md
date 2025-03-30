@@ -1,6 +1,7 @@
 # AI-ENHANCED-SIGN-LANGUAGE-INTERPRETER
 
 ### Overview:
+ssss
 This project implements a Hand Gesture Recognition system using the MediaPipe library in Python. The goal is to recognize hand signs and finger gestures, facilitating a sign language interpreter enhanced by artificial intelligence.
 
 ### Contents
