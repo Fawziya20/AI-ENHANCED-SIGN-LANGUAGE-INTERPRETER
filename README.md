@@ -2,8 +2,7 @@
 
 ### Overview:
 ssss hgjhjh
-This project implements a Hand Gesture Recognition system using the MediaPipe library in Python. The goal is to recognize hand signs and finger gestures, facilitating a sign language interpreter enhanced by artificial intelligence.
-
+This project implements a Hand Gesture Recognition system using the MediaPipe library in Python. The goal is to recognize hand signs and finger gestures, facilitating a sign language interpreter enhanced by artificial intelligence.xx
 ### Contentsnents:
 fadfa
 1) Sample Program (app.py):<br>dsd
