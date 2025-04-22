@@ -7,7 +7,7 @@ This project implements a Hand Gesture Recognition system using the MediaPipe li
 ### Contentsnents:
 fadfa
 1) Sample Program (app.py):<br>dsd
-The main execution program for the sign language interpreter.<br>
+The main execution program for the sign language interpreter.
 
 
  hand_sign_model.tflite: TFLite model file for hand sign recognition.<br>
