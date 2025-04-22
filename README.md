@@ -10,7 +10,7 @@ The main execution program for the sign language interpreter.
 
 
  hand_sign_model.tflite: TFLite model file for hand sign recognition.<br>
- hand_sign_labels.txt: Text file containing labels for hand sign classes.<br>
+ hand_sign_labels.txt: Text file containing labels for hand sign classes.<br>dssdsdwsdw
  hand_sign_model_training_data.csv: Dataset used for training the hand sign recognition model.<br>
  hand_sign_model_training.ipynb: Jupyter notebook for model training and learning.<br>
 
