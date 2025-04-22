@@ -9,7 +9,6 @@ fadfa
 1) Sample Program (app.py):<br>dsd
 The main execution program for the sign language interpreter.<br>
 
-2) Hand Sign Recognition Model (TFLite) and Related Files:<br>
 
  hand_sign_model.tflite: TFLite model file for hand sign recognition.<br>
  hand_sign_labels.txt: Text file containing labels for hand sign classes.<br>
