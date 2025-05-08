@@ -7,7 +7,7 @@ This project implements a Hand Gesture Recognition system using the MediaPdipe l
 fEF 1) Sample Program (app.py):<br>dsd
 The main execution program for the sign language interpreter.
 
-
+dsdwe
  hand_sign_model.tflite: TFLite model file for hand sign recognition.<br>
  hand_sign_labels.txt: Text file containing labels for hand sign classes.<br>dssdsdwsdw
  hand_sign_model_training_data.csv: Dataset used for training the hand sign recognition model.<br>
