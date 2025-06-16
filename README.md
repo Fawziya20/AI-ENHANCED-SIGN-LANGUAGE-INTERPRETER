@@ -1,19 +1,15 @@
 # AI-ENHANCED-SIGN-LANGUAGE-INTERPRETER
 
-### Overview:FGSFGF
-ssss hgjhjh
-This project implements a Hand Gesture Recognition system using the MediaPdipe library in Python. The goal is to recognize hand signs and finger gestures, facilitating a sign language interpreter enhanced by artificial intelligence.
-### ContentsjhjnhjD FF
-fEF 1) Sample Program (app.py):<br>dsd
+### Overview:
+
 The main execution program for the sign language interpreter.
 
-dsdwe
  hand_sign_model.tflite: TFLite model file for hand sign recognition.<br>
  hand_sign_labels.txt: Text file containing labels for hand sign classes.<br>dssdsdwsdw
  hand_sign_model_training_data.csv: Dataset used for training the hand sign recognition model.<br>
  hand_sign_model_training.ipynb: Jupyter notebook for model training and learning.<br>
 
- 3)Finger Gesture Recognition Model (TFLite) and Related Files:
+Finger Gesture Recognition Model (TFLite) and Related Files:
 
  finger_gesture_model.tflite: TFLite model file for finger gesture recognition.<br>
  finger_gesture_labels.txt: Text file with labels for finger gesture classes.<br>
